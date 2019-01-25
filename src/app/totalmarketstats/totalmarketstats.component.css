@@ -1,0 +1,45 @@
+.margin-top-10{
+    margin-top: 10px;
+}
+
+.small-box{
+    border-radius: 5px;
+    text-align:center;
+    position: relative;
+    display: block;
+    margin-bottom: 20px;
+    box-shadow: 0 1px 1px rgba(0,0,0,0.1);
+}
+.bg-aqua{
+    background-color: #00c0ef;
+}
+
+.bg-green{
+    background-color: #00a65a;
+}
+
+.small-box > .inner{
+    padding: 10px;
+}
+
+.small-box .icon{
+    transition: all .3s linear;
+    position: absolute;
+    top: -10px;
+    right: 10px;
+    z-index: 0;
+    font-size: 90px;
+    color: rgba(0,0,0,0.15);
+}
+.ion {
+    display: inline-block;
+    font-family: "Ionicons";
+    speak: none;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    text-rendering: auto;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+}

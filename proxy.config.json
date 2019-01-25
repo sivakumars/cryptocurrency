@@ -1,0 +1,9 @@
+{
+    "/api/*": {
+        "target": "https://chasing-coins.com/",
+        "secure": false,
+        "logLevel": "debug",
+        "changeOrigin": true,
+        "pathRewrite": {"^/api" : "https://chasing-coins.com/api"}
+    }
+}

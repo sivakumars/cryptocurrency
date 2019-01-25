@@ -1,0 +1,652 @@
+{
+   "1": 
+   {
+      "symbol": "BTC",
+      "cap": "62573173407.0",
+      "change": 
+      {
+         "hour": "0.1",
+         "day": "-0.84"
+      },
+      "price": "3576.02636277",
+      "coinheat": 100,
+      "url": "https://chasing-coins.com/coin/BTC"
+   },
+   "2": 
+   {
+      "symbol": "XRP",
+      "cap": "12941497165.0",
+      "change": 
+      {
+         "hour": "0.08",
+         "day": "-0.98"
+      },
+      "price": "0.3153355123",
+      "coinheat": 100,
+      "url": "https://chasing-coins.com/coin/XRP"
+   },
+   "3": 
+   {
+      "symbol": "ETH",
+      "cap": "12197308445.0",
+      "change": 
+      {
+         "hour": "0.23",
+         "day": "-1.98"
+      },
+      "price": "116.681934758",
+      "coinheat": 100,
+      "url": "https://chasing-coins.com/coin/ETH"
+   },
+   "4": 
+   {
+      "symbol": "BCH",
+      "cap": "2269435859.0",
+      "change": 
+      {
+         "hour": "0.08",
+         "day": "-1.32"
+      },
+      "price": "129.068971445",
+      "coinheat": 100,
+      "url": "https://chasing-coins.com/coin/BCH"
+   },
+   "5": 
+   {
+      "symbol": "EOS",
+      "cap": "2196414277.0",
+      "change": 
+      {
+         "hour": "-0.05",
+         "day": "-1.08"
+      },
+      "price": "2.4236426042",
+      "coinheat": 100,
+      "url": "https://chasing-coins.com/coin/EOS"
+   },
+   "6": 
+   {
+      "symbol": "USDT",
+      "cap": "2033238929.0",
+      "change": 
+      {
+         "hour": "-0.04",
+         "day": "-0.11"
+      },
+      "price": "1.0079778854",
+      "coinheat": 25,
+      "url": "https://chasing-coins.com/coin/USDT"
+   },
+   "7": 
+   {
+      "symbol": "XLM",
+      "cap": "1955109338.0",
+      "change": 
+      {
+         "hour": "0.57",
+         "day": "-1.58"
+      },
+      "price": "0.1022021662",
+      "coinheat": 100,
+      "url": "https://chasing-coins.com/coin/XLM"
+   },
+   "8": 
+   {
+      "symbol": "LTC",
+      "cap": "1897539377.0",
+      "change": 
+      {
+         "hour": "0.15",
+         "day": "-0.93"
+      },
+      "price": "31.5442195416",
+      "coinheat": 50,
+      "url": "https://chasing-coins.com/coin/LTC"
+   },
+   "9": 
+   {
+      "symbol": "TRX",
+      "cap": "1769297366.0",
+      "change": 
+      {
+         "hour": "0.46",
+         "day": "1.93"
+      },
+      "price": "0.0265433801",
+      "coinheat": 88,
+      "url": "https://chasing-coins.com/coin/TRX"
+   },
+   "10": 
+   {
+      "symbol": "BSV",
+      "cap": "1313556727.0",
+      "change": 
+      {
+         "hour": "-0.05",
+         "day": "-1.43"
+      },
+      "price": "74.7101073728",
+      "coinheat": 100,
+      "url": "https://chasing-coins.com/coin/BSV"
+   },
+   "11": 
+   {
+      "symbol": "ADA",
+      "cap": "1106471902.0",
+      "change": 
+      {
+         "hour": "0.14",
+         "day": "-1.8"
+      },
+      "price": "0.0426763178",
+      "coinheat": 100,
+      "url": "https://chasing-coins.com/coin/ADA"
+   },
+   "12": 
+   {
+      "symbol": "BNB",
+      "cap": "839098558.0",
+      "change": 
+      {
+         "hour": "0.25",
+         "day": "-0.53"
+      },
+      "price": "6.495803161",
+      "coinheat": 100,
+      "url": "https://chasing-coins.com/coin/BNB"
+   },
+   "13": 
+   {
+      "symbol": "MIOTA",
+      "cap": "824391205.0",
+      "change": 
+      {
+         "hour": "0.16",
+         "day": "-2.81"
+      },
+      "price": "0.2965937124",
+      "coinheat": 100,
+      "url": "https://chasing-coins.com/coin/MIOTA"
+   },
+   "14": 
+   {
+      "symbol": "XMR",
+      "cap": "751934500.0",
+      "change": 
+      {
+         "hour": "0.13",
+         "day": "-1.45"
+      },
+      "price": "44.911389848",
+      "coinheat": 100,
+      "url": "https://chasing-coins.com/coin/XMR"
+   },
+   "15": 
+   {
+      "symbol": "DASH",
+      "cap": "613533771.0",
+      "change": 
+      {
+         "hour": "1.16",
+         "day": "-1.13"
+      },
+      "price": "71.4646366655",
+      "coinheat": 100,
+      "url": "https://chasing-coins.com/coin/DASH"
+   },
+   "16": 
+   {
+      "symbol": "XEM",
+      "cap": "499976457.0",
+      "change": 
+      {
+         "hour": "0.22",
+         "day": "-1.23"
+      },
+      "price": "0.0555529396",
+      "coinheat": 100,
+      "url": "https://chasing-coins.com/coin/XEM"
+   },
+   "17": 
+   {
+      "symbol": "NEO",
+      "cap": "492742203.0",
+      "change": 
+      {
+         "hour": "0.33",
+         "day": "-1.19"
+      },
+      "price": "7.5806492791",
+      "coinheat": 100,
+      "url": "https://chasing-coins.com/coin/NEO"
+   },
+   "18": 
+   {
+      "symbol": "ETC",
+      "cap": "460588551.0",
+      "change": 
+      {
+         "hour": "0.1",
+         "day": "-1.46"
+      },
+      "price": "4.2746217687",
+      "coinheat": 100,
+      "url": "https://chasing-coins.com/coin/ETC"
+   },
+   "19": 
+   {
+      "symbol": "MKR",
+      "cap": "334192649.0",
+      "change": 
+      {
+         "hour": "0.7",
+         "day": "0.72"
+      },
+      "price": "458.912255838",
+      "coinheat": 88,
+      "url": "https://chasing-coins.com/coin/MKR"
+   },
+   "20": 
+   {
+      "symbol": "USDC",
+      "cap": "315759938.0",
+      "change": 
+      {
+         "hour": "0.03",
+         "day": "0.17"
+      },
+      "price": "1.0098106217",
+      "coinheat": 88,
+      "url": "https://chasing-coins.com/coin/USDC"
+   },
+   "21": 
+   {
+      "symbol": "ZEC",
+      "cap": "301741426.0",
+      "change": 
+      {
+         "hour": "0.25",
+         "day": "-0.71"
+      },
+      "price": "52.5726004973",
+      "coinheat": 25,
+      "url": "https://chasing-coins.com/coin/ZEC"
+   },
+   "22": 
+   {
+      "symbol": "WAVES",
+      "cap": "293041471.0",
+      "change": 
+      {
+         "hour": "1.13",
+         "day": "-0.67"
+      },
+      "price": "2.9304147125",
+      "coinheat": 38,
+      "url": "https://chasing-coins.com/coin/WAVES"
+   },
+   "23": 
+   {
+      "symbol": "XTZ",
+      "cap": "252644255.0",
+      "change": 
+      {
+         "hour": "0.18",
+         "day": "-1.14"
+      },
+      "price": "0.4158828197",
+      "coinheat": 100,
+      "url": "https://chasing-coins.com/coin/XTZ"
+   },
+   "24": 
+   {
+      "symbol": "DOGE",
+      "cap": "240272153.0",
+      "change": 
+      {
+         "hour": "0.07",
+         "day": "-0.67"
+      },
+      "price": "0.0020368994",
+      "coinheat": 100,
+      "url": "https://chasing-coins.com/coin/DOGE"
+   },
+   "25": 
+   {
+      "symbol": "VET",
+      "cap": "238773310.0",
+      "change": 
+      {
+         "hour": "0.37",
+         "day": "-2.78"
+      },
+      "price": "0.0043057335",
+      "coinheat": 100,
+      "url": "https://chasing-coins.com/coin/VET"
+   },
+   "26": 
+   {
+      "symbol": "TUSD",
+      "cap": "209486809.0",
+      "change": 
+      {
+         "hour": "0.01",
+         "day": "0.09"
+      },
+      "price": "1.0089957229",
+      "coinheat": 88,
+      "url": "https://chasing-coins.com/coin/TUSD"
+   },
+   "27": 
+   {
+      "symbol": "BTG",
+      "cap": "194982040.0",
+      "change": 
+      {
+         "hour": "-0.02",
+         "day": "-0.04"
+      },
+      "price": "11.1969045103",
+      "coinheat": 88,
+      "url": "https://chasing-coins.com/coin/BTG"
+   },
+   "28": 
+   {
+      "symbol": "ONT",
+      "cap": "192817580.0",
+      "change": 
+      {
+         "hour": "0.14",
+         "day": "-2.54"
+      },
+      "price": "0.59459009",
+      "coinheat": 100,
+      "url": "https://chasing-coins.com/coin/ONT"
+   },
+   "29": 
+   {
+      "symbol": "QTUM",
+      "cap": "181500173.0",
+      "change": 
+      {
+         "hour": "-0.21",
+         "day": "-1.88"
+      },
+      "price": "2.0346626047",
+      "coinheat": 25,
+      "url": "https://chasing-coins.com/coin/QTUM"
+   },
+   "30": 
+   {
+      "symbol": "ZIL",
+      "cap": "179721174.0",
+      "change": 
+      {
+         "hour": "1.66",
+         "day": "-2.61"
+      },
+      "price": "0.0218149498",
+      "coinheat": 100,
+      "url": "https://chasing-coins.com/coin/ZIL"
+   },
+   "31": 
+   {
+      "symbol": "ZRX",
+      "cap": "177916856.0",
+      "change": 
+      {
+         "hour": "-2.25",
+         "day": "4.87"
+      },
+      "price": "0.3048195342",
+      "coinheat": 63,
+      "url": "https://chasing-coins.com/coin/ZRX"
+   },
+   "32": 
+   {
+      "symbol": "OMG",
+      "cap": "177276368.0",
+      "change": 
+      {
+         "hour": "0.13",
+         "day": "-2.2"
+      },
+      "price": "1.2640440959",
+      "coinheat": 100,
+      "url": "https://chasing-coins.com/coin/OMG"
+   },
+   "33": 
+   {
+      "symbol": "LINK",
+      "cap": "170793634.0",
+      "change": 
+      {
+         "hour": "0.61",
+         "day": "-8.29"
+      },
+      "price": "0.4879818126",
+      "coinheat": 50,
+      "url": "https://chasing-coins.com/coin/LINK"
+   },
+   "34": 
+   {
+      "symbol": "DCR",
+      "cap": "157438334.0",
+      "change": 
+      {
+         "hour": "0.35",
+         "day": "-1.0"
+      },
+      "price": "17.1108907501",
+      "coinheat": 100,
+      "url": "https://chasing-coins.com/coin/DCR"
+   },
+   "35": 
+   {
+      "symbol": "REP",
+      "cap": "154899621.0",
+      "change": 
+      {
+         "hour": "1.14",
+         "day": "-4.15"
+      },
+      "price": "14.081783708",
+      "coinheat": 100,
+      "url": "https://chasing-coins.com/coin/REP"
+   },
+   "36": 
+   {
+      "symbol": "BAT",
+      "cap": "150660684.0",
+      "change": 
+      {
+         "hour": "0.27",
+         "day": "-0.88"
+      },
+      "price": "0.1224934308",
+      "coinheat": 100,
+      "url": "https://chasing-coins.com/coin/BAT"
+   },
+   "37": 
+   {
+      "symbol": "PAX",
+      "cap": "141544474.0",
+      "change": 
+      {
+         "hour": "-0.01",
+         "day": "-0.07"
+      },
+      "price": "1.0054563152",
+      "coinheat": 25,
+      "url": "https://chasing-coins.com/coin/PAX"
+   },
+   "38": 
+   {
+      "symbol": "LSK",
+      "cap": "141076286.0",
+      "change": 
+      {
+         "hour": "2.17",
+         "day": "0.9"
+      },
+      "price": "1.2368772055",
+      "coinheat": 100,
+      "url": "https://chasing-coins.com/coin/LSK"
+   },
+   "39": 
+   {
+      "symbol": "HOT",
+      "cap": "135601124.0",
+      "change": 
+      {
+         "hour": "6.08",
+         "day": "45.36"
+      },
+      "price": "0.0010179151",
+      "coinheat": 88,
+      "url": "https://chasing-coins.com/coin/HOT"
+   },
+   "40": 
+   {
+      "symbol": "NANO",
+      "cap": "126328051.0",
+      "change": 
+      {
+         "hour": "-2.08",
+         "day": "0.69"
+      },
+      "price": "0.9480650852",
+      "coinheat": 50,
+      "url": "https://chasing-coins.com/coin/NANO"
+   },
+   "41": 
+   {
+      "symbol": "BCD",
+      "cap": "120055574.0",
+      "change": 
+      {
+         "hour": "0.46",
+         "day": "-1.38"
+      },
+      "price": "0.7808143467",
+      "coinheat": 100,
+      "url": "https://chasing-coins.com/coin/BCD"
+   },
+   "42": 
+   {
+      "symbol": "STEEM",
+      "cap": "114899960.0",
+      "change": 
+      {
+         "hour": "0.38",
+         "day": "-10.55"
+      },
+      "price": "0.3754691008",
+      "coinheat": 100,
+      "url": "https://chasing-coins.com/coin/STEEM"
+   },
+   "43": 
+   {
+      "symbol": "BCN",
+      "cap": "111750158.0",
+      "change": 
+      {
+         "hour": "-0.19",
+         "day": "-1.97"
+      },
+      "price": "0.0006071173",
+      "coinheat": 25,
+      "url": "https://chasing-coins.com/coin/BCN"
+   },
+   "44": 
+   {
+      "symbol": "R",
+      "cap": "107957963.0",
+      "change": 
+      {
+         "hour": "-0.1",
+         "day": "0.75"
+      },
+      "price": "0.2228464515",
+      "coinheat": 63,
+      "url": "https://chasing-coins.com/coin/R"
+   },
+   "45": 
+   {
+      "symbol": "ICX",
+      "cap": "107952666.0",
+      "change": 
+      {
+         "hour": "0.17",
+         "day": "-1.75"
+      },
+      "price": "0.2280336741",
+      "coinheat": 25,
+      "url": "https://chasing-coins.com/coin/ICX"
+   },
+   "46": 
+   {
+      "symbol": "DGB",
+      "cap": "105886775.0",
+      "change": 
+      {
+         "hour": "-1.39",
+         "day": "-4.56"
+      },
+      "price": "0.0093317441",
+      "coinheat": 25,
+      "url": "https://chasing-coins.com/coin/DGB"
+   },
+   "47": 
+   {
+      "symbol": "BTS",
+      "cap": "104454825.0",
+      "change": 
+      {
+         "hour": "-0.25",
+         "day": "-2.5"
+      },
+      "price": "0.0388973059",
+      "coinheat": 25,
+      "url": "https://chasing-coins.com/coin/BTS"
+   },
+   "48": 
+   {
+      "symbol": "XVG",
+      "cap": "104090410.0",
+      "change": 
+      {
+         "hour": "0.87",
+         "day": "2.78"
+      },
+      "price": "0.0068606525",
+      "coinheat": 88,
+      "url": "https://chasing-coins.com/coin/XVG"
+   },
+   "49": 
+   {
+      "symbol": "SC",
+      "cap": "97834171.0",
+      "change": 
+      {
+         "hour": "0.79",
+         "day": "-2.58"
+      },
+      "price": "0.0025034497",
+      "coinheat": 100,
+      "url": "https://chasing-coins.com/coin/SC"
+   },
+   "50": 
+   {
+      "symbol": "STRAT",
+      "cap": "97540097.0",
+      "change": 
+      {
+         "hour": "1.11",
+         "day": "-3.81"
+      },
+      "price": "0.9834243156",
+      "coinheat": 100,
+      "url": "https://chasing-coins.com/coin/STRAT"
+   }
+}

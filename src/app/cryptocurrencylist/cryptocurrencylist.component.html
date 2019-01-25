@@ -1,0 +1,41 @@
+<app-cryptofilter [cryptos]="cryptoCurrencies"
+(filteredCryptosEvent)="listenFilterCryptos($event)"></app-cryptofilter>
+<div class="container"> 
+
+    <div class="limiter">
+        <div class="container-table">
+          <div class="wrap-table100">
+            <div class="table100">
+              <table>
+                <thead>
+                  <tr class="table100-head">
+                    <th (click)="sortNumbers(sortFlags.id, 'id')">#</th>
+                    <th (click)="sortString(sortFlags.symbol, 'symbol')">Symbol</th>
+                    <th (click)="sortNumbers(sortFlags.marketCap, 'marketCap')">MarketCap</th>
+                    <th (click)="sortNumbers(sortFlags.price, 'price')">Price</th>
+                    <th (click)="sortNumbers(sortFlags.volume24hChange, 'change')">24h % change</th>
+                    <th >Details</th>
+                  </tr>
+                </thead>
+                <tbody>
+                    <tr *ngFor="let cryptocurrency of filteredCryptos">
+                        <td class="column1">{{cryptocurrency.id}}</td>
+                        <td class="column6">{{cryptocurrency.symbol}}</td>
+                        <td class="column2">{{cryptocurrency.marketCap | currency}}</td>
+                        <td class="column3">{{cryptocurrency.price | currency}}</td>
+                        <td class="column4" 
+                              [class.positive] ="cryptocurrency.change.hour > 0" [class.negative] ="cryptocurrency.change.hour < 0">
+                              {{cryptocurrency.change.hour}}</td>
+                        <td class="column5">
+                          <a [routerLink]="['cryptodetails', cryptocurrency.symbol ]" data-toggle="Click here for details"> 
+                            <span class="badge badge-primary">{{cryptocurrency.symbol}}</span>
+                          </a>
+                        </td>
+                    </tr>
+                </tbody>
+              </table>
+            </div>
+          </div>
+        </div>
+      </div>
+</div>

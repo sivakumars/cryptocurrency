@@ -1,0 +1,38 @@
+<div class="container">
+  <div class="cryptoHeader">
+    <h3><span class="fa fa-bitcoin"></span>&nbsp;
+      <strong><a [routerLink]="['']" class="text-white">Cryptocurrencies</a></strong>
+    </h3>    
+  </div>
+</div>
+
+
+    <div class="container">
+        <div class="pad border margin-1em">
+        <app-totalmarketstats></app-totalmarketstats>
+        <div class="row">
+          <div class="col-lg-4">        
+              <div class="card container-fluid">
+                  <img class="card-img-top img-responsive" src={{cryptoLogo}} alt="Card image cap">
+                  <div class="card-body">
+                    <h5 class="card-title">{{symbol}}</h5>
+                    <div  class="btn btn-secondary block">
+                        24H High Price <span class="badge badge-light">{{highPrice24h | currency: 'USD'}}</span>
+                    </div>
+                    <div class="btn btn-secondary margin block">
+                        24H Low Price <span class="badge badge-light">{{lowPrice24h | currency: 'USD'}}</span>
+                    </div>                    
+                    <a class="btn btn-primary btn-block margin" [routerLink]="['']"><i class="fa fa-arrow-left"></i>&nbsp;Go Back</a>
+                  </div>
+                </div>
+          </div>
+          <div class="col-lg-8">
+              <h4 class="text-white">MONTHLY TRENDS</h4>
+              <chart style="height: 500px;" [type]="'line'" [data]="data" [options]="options"></chart>
+          </div>
+        </div>
+        </div>
+      </div>
+
+
+

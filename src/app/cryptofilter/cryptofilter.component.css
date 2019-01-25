@@ -1,0 +1,17 @@
+.cryptoHeader {
+    display: flex;
+    background: orangered;
+    color: white;
+    border-radius: 3px;
+    padding: 1em;
+    font-family: sans-serif;
+    justify-content: space-between;
+}
+  
+  @media screen and (max-width: 770px) {
+    .cryptoHeader {
+      flex-direction: column;
+      font-size: calc(1vw + 0.5em);
+      text-align: center;
+  }   
+}

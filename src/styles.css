@@ -1,0 +1,21 @@
+@font-face {
+    font-family: OpenSans-Regular;
+    src: url('assets/fonts/OpenSans/OpenSans-Regular.ttf'); 
+}
+
+:root {
+    box-sizing: border-box;
+    font-size: calc(1vw + 0.5em);
+}
+
+/* .btcBlue {
+    color: #6699f6;
+}
+
+.borderWhiteAll {
+    border: 2px solid white !important;
+}
+
+.borderWhiteBottom {
+    border-bottom: 2px solid white !important;
+} */

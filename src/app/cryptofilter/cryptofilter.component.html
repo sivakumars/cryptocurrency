@@ -1,0 +1,12 @@
+<div class="container">
+  <div class="cryptoHeader">
+    <h3><span class="fa fa-bitcoin"></span>&nbsp;<strong>Cryptocurrencies</strong></h3>
+    <div class="col-md-4">      
+      <select id="growth" class="form-control" [(ngModel)]="percentChange"  (ngModelChange)="filterCryptos()">
+          <option value="All">All</option>
+          <option value="Positive">Positive</option>
+          <option value="Negative">Negative</option>
+      </select>      
+    </div>
+  </div>
+</div>
