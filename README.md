@@ -1,14 +1,6 @@
 # cryptocurrency
 F22 - assignment - An app to list top 50 cryptocurrencies with miscellaneous features
 
-# cryptocurrency
-F22 - assignment - An app to list top 50 cryptocurrencies with miscellaneous features
-
-
-# Falcone
-
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.8.
-
 # How to RUN the application
 
   - unzip the file and cd into the project folder
